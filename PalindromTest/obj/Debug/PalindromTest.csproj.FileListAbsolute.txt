@@ -1,0 +1,6 @@
+C:\Users\eli54\source\repos\PalindromTest\PalindromTest\bin\Debug\PalindromTest.dll
+C:\Users\eli54\source\repos\PalindromTest\PalindromTest\bin\Debug\PalindromTest.pdb
+C:\Users\eli54\source\repos\PalindromTest\PalindromTest\obj\Debug\PalindromTest.csprojAssemblyReference.cache
+C:\Users\eli54\source\repos\PalindromTest\PalindromTest\obj\Debug\PalindromTest.csproj.CoreCompileInputs.cache
+C:\Users\eli54\source\repos\PalindromTest\PalindromTest\obj\Debug\PalindromTest.dll
+C:\Users\eli54\source\repos\PalindromTest\PalindromTest\obj\Debug\PalindromTest.pdb
