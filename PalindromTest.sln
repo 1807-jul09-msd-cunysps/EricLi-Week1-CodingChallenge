@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromTest", "PalindromTest\PalindromTest.csproj", "{39055073-D803-469C-B22C-AA9EAC3CB26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeTest", "UnitTestProject1\PalindromeTest.csproj", "{F7BD2168-51E5-45ED-9937-E937BE7D5ED2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeTest", "PalindromeTest\PalindromeTest.csproj", "{F7BD2168-51E5-45ED-9937-E937BE7D5ED2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
